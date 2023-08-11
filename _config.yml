@@ -1,0 +1,74 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: 2023JK4
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Bay is a minimal Jekyll Theme.
+baseurl: "" # the subpath of the site
+url: "https://FDU2023JK4.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile3.JPG
+
+header:
+  pages:
+    - name: About
+      slug: /
+    - name: Activity
+    - name: Member
+    - name: Blog
+
+footer:
+  # show_powered_by: true
+  contact:
+    - name: Email
+      value: FDU2023JK4@163.com
+      link: mailto:FDU2023JK4@163.com
+
+  follow:
+    # - name: Twitter
+      # link: http://twitter.com/henrylau7_
+      # username: "@HenryLau"
+    - name: GitHub
+      link: http://github.com/FDU2023JK4
+    # - name: Facebook
+    #   link: http://github.com/henrylau7
+    # - name: Facebook
+    #   link: http://facebook.com/YourFacebookUsername
+    # - name: LinkedIn
+      # link: http://linkedin.com/in/YourLinkedInUsername
+    # - name: Dribbble
+    #   link: https://dribbble.com/YourDribbbleUsername
+    # - name: RSS
+    #   link: /feed.xml
+  link:
+    # - name: Xiahai
+      # link: https://zmiclab.github.io/zxh/
+    # - name: Zhiyang
+      # link: https://name-less-king.github.io/
+    - name: Yuanye
+      link: https://henrylau7.github.io/
+
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
+
+future: true
