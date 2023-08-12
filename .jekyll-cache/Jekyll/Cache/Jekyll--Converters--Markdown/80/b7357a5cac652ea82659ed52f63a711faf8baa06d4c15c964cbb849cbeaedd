@@ -1,0 +1,131 @@
+I"O<!-- <!DOCTYPE html> -->
+<html>
+<head>
+<meta charset="utf-8" /> 
+<title>JK4-Member</title> 
+<style>
+
+
+    div.img
+    {
+      margin: 2px;
+      border: 1px solid #000000;
+      height: auto;
+      width: auto;
+      float: left;
+      text-align: center;
+    }    
+    <!-- div.img img
+    {
+      display: inline;
+      margin: 3px;
+      border: 1px solid #ffffff;
+    } -->
+    div.img a:hover img {border: 1px solid #0000ff;}
+    div.desc
+    {
+      text-align: center;
+      font-weight: normal;
+      <!-- width: 120px; -->
+      margin: 2px;
+    }
+    div.title
+    {
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #000000;
+    font-size: 20px;
+    margin: 2px;
+    color: blue;
+    }
+    div.minititle
+    {
+    text-align: center;
+    font-weight: bold;
+    <!-- border: 1px solid #000000; -->
+    font-size: 20px;
+    margin: 2px;
+    color: #82B0D2;
+    }
+
+</style>
+</head>
+
+<body>
+    <div class="title"><a>复旦大学大数据学院2023级技术科学试验班4班人员列表</a></div>
+    <div class="minititle"><a>辅导员 助辅</a></div>
+    <div class="img">
+         <a target="_blank" href="https://henrylau7.github.io/"><img src="./assets/img/profile3.JPG" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>刘原冶 辅导员</a><br />23硕 大数据<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/chengzihao.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>程子豪 助辅</a><br />21本 大数据<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/fengjunjie.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>冯俊杰 助辅</a><br />22本 微电子<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/zhanjiahao.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>詹佳豪 助辅</a><br />22本 AICS<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/lindanni.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>林单妮 助辅</a><br />22本 金融<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://siyuyuan.github.io"><img src="./assets/img/Members/yuansiyu.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>员司雨 助辅</a><br />21博 大数据<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://mp.weixin.qq.com/s/NH8wldOm9CZvuA0qRyQs7Q"><img src="./assets/img/Members/wuyou.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>吴优 助辅</a><br />23硕 国务<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/pengyibo.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>彭一博 助辅</a><br />20本 软工<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/chenjiajun.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>陈嘉骏 助辅</a><br />22本 计算机<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/yangchenyuan.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>杨晨源 助辅</a><br />22本 计算机<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/guozitong.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>郭梓桐 助辅</a><br />21本 管理<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://www.xiaohongshu.com/user/profile/5a8422054eacab33b051994d?xhsshare=CopyLink&amp;appuid=5a8422054eacab33b051994d&amp;apptime=1691851445"><img src="./assets/img/Members/zhangjiahui.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>张嘉卉 助辅</a><br />23硕 汉语言<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/hujiaming.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>胡家铭 助辅</a><br />22本 电信<br /></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/tianrenze.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>田仁泽 助辅</a><br />22本 电信<br /></div>
+    </div>
+   <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/wangzihan.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>王子晗 助辅</a><br />20本 生科<br /></div>
+    </div>
+   <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/tongfangyuan.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>童方圆 助辅</a><br />22本 金融<br /></div>
+    </div>
+   <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/situsizhi.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>司徒司植 助辅</a><br />21本 管理<br /></div>
+    </div>
+   <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/zhangaotian.jpg" alt="Klematis" width="150" height="200" /></a>
+         <div class="desc"><a>张骜天 助辅</a><br />22本 保密<br /></div>
+    </div>
+</body>
+</html>
+:ET
