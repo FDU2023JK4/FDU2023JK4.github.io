@@ -132,4 +132,8 @@ slug: /member
          <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/zhangaotian.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>张骜天 助辅</a><br>22本 保密<br></div>
     </div>
+   <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/yinlinqi.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>殷林琪 助辅</a><br>21本 AIDS<br></div>
+    </div>
 </body>
