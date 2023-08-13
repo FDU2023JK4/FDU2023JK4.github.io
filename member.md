@@ -1,5 +1,5 @@
 ---
-# layout: default
+layout: member
 title: Member
 slug: /member
 ---
@@ -16,8 +16,8 @@ slug: /member
     {
       margin: 2px;
       border: 1px solid #000000;
-      height: auto;
-      width: auto;
+      height: 260px;
+      width: 160px;
       float: left;
       text-align: center;
     }    
@@ -61,7 +61,7 @@ slug: /member
     <div class="title"><a>复旦大学大数据学院2023级技术科学试验班4班人员列表</a></div>
     <div class="minititle"><a>辅导员 助辅</a></div>
     <div class="img">
-         <a target="_blank" href="https://henrylau7.github.io/"><img src="./assets/img/profile3.JPG" alt="Klematis" width="150" height="200"></a>
+         <a target="_blank" href="https://henrylau7.github.io/"><img src="./assets/img/Members/liuyuanye.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>刘原冶 辅导员</a><br>23硕 大数据<br></div>
     </div>
     <div class="img">
@@ -136,4 +136,9 @@ slug: /member
          <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/yinlinqi.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>殷林琪 助辅</a><br>21本 AIDS<br></div>
     </div>
+   <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/fengji.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>冯骥 助辅</a><br>22本 临床医学<br></div>
+    </div>
+
 </body>
