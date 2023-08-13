@@ -59,7 +59,7 @@ slug: /member
 
 <body>
     <div class="title"><a>复旦大学大数据学院2023级技术科学试验班4班人员列表</a></div>
-    <div class="minititle"><a>辅导员 助辅</a></div>
+    <div class="minititle"><a>辅导员 助辅(按姓名拼音排序)</a></div>
     <div class="img">
          <a target="_blank" href="https://henrylau7.github.io/"><img src="./assets/img/Members/liuyuanye.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>刘原冶 辅导员</a><br>23硕 大数据<br></div>
