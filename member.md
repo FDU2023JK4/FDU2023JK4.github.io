@@ -140,5 +140,22 @@ slug: /member
          <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/fengji.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>冯骥 助辅</a><br>22本 临床医学<br></div>
     </div>
+       <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/yuanyucheng.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>袁宇成 助辅</a><br>22本 AICS<br></div>
+    </div>
+       <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/qiuxingyu.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>裘星宇 助辅</a><br>20本 AIDS<br></div>
+    </div>
+           <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/suxueqing.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>苏雪清 助辅</a><br>22本 大数据<br></div>
+    </div>
+           <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/xiaozidan.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>肖梓丹 助辅</a><br>21本 大数据<br></div>
+    </div>
+
 
 </body>
