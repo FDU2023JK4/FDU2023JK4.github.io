@@ -72,6 +72,10 @@ slug: /member
          <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/chenjiajun.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>陈嘉骏 助辅</a><br>22本 计算机<br></div>
     </div>
+            <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/chenzeming.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>陈泽铭 助辅</a><br>21本 新闻<br></div>
+    </div>
        <div class="img">
          <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/fengji.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>冯骥 助辅</a><br>22本 临床医学<br></div>
@@ -159,6 +163,10 @@ slug: /member
     <div class="img">
          <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/zhanjiahao.jpg" alt="Klematis" width="150" height="200"></a>
          <div class="desc"><a>詹佳豪 助辅</a><br>22本 AICS<br></div>
+    </div>
+    <div class="img">
+         <a target="_blank" href="https://fdu2023jk4.github.io/member"><img src="./assets/img/Members/zhouqihao.jpg" alt="Klematis" width="150" height="200"></a>
+         <div class="desc"><a>周琪皓 助辅</a><br>20本 大数据<br></div>
     </div>
 
 
